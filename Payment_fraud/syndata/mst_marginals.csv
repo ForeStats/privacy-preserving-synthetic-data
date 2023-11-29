@@ -1,0 +1,10 @@
+"fromN","toN","from","to","error"
+"8","7","Product","isFraud",0.0636620808046616
+"3","6","DayOfWeek","Hour",0.079305592494983
+"6","9","Hour","Region",0.0895814695713146
+"2","1","CardType","CardCategory",0.0932082497159022
+"8","5","Product","EmailDomain",0.161585144708528
+"8","1","Product","CardCategory",0.180686186803356
+"10","8","TransAmtDisc","Product",0.213883314393481
+"8","4","Product","DaysSinceLastTrans",0.239222418337
+"8","9","Product","Region",0.333494523561982

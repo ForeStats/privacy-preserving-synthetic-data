@@ -1,0 +1,17 @@
+"fromN","toN","from","to","error"
+"6","12","Family.Composition","Population.Base",0.05884
+"15","6","Residence.Type","Family.Composition",0.07382
+"13","5","Region","Ethnic.Group",0.16942
+"1","14","Age","Religion",0.2483
+"3","5","Country.of.Birth","Ethnic.Group",0.25784
+"16","11","Sex","Occupation",0.26388
+"5","14","Ethnic.Group","Religion",0.29008
+"7","4","Health","Economic.Activity",0.42308
+"17","4","Student","Economic.Activity",0.64864
+"6","10","Family.Composition","Marital.Status",0.65654
+"4","2","Economic.Activity","Approximated.Social.Grade",0.72096
+"1","10","Age","Marital.Status",0.75108
+"4","8","Economic.Activity","Hours.worked.per.week",0.99508
+"1","4","Age","Economic.Activity",1.0253
+"11","9","Occupation","Industry",1.03378
+"11","2","Occupation","Approximated.Social.Grade",1.08246
